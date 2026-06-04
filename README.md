@@ -1,4 +1,4 @@
-# Blinkit-Sales-Dashboard-power-BI-
+# Blinkit-Sales-Dashboard-powerBI-
 •Built an interactive dashboard to analyze sales metrics, customer trends, and product 
 performance. 
 •Cleaned and transformed raw sales data for accuracy and consistency. 

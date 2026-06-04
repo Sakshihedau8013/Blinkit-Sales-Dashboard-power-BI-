@@ -5,5 +5,5 @@ performance.
 •Designed visualizations for KPIs including total sales, profit margins, customer count, and 
 average order value. 
 •Analysed customer demographics and purchasing patterns to identify high-value segments. 
-•Enabled dynamic filtering by time period, location, and product type.                                 
+•Enabled dynamic filtering by time period, location, and product type.                     
 • Tools: Power BI Desktop, Power Query, ETL, DAX
